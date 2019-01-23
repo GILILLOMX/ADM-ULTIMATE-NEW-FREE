@@ -2,11 +2,11 @@
 
 Manager Script
 
-1 • RECOMENDADO UBUNTU 14.04
+1 • RECOMENDADO UBUNTU 14.04 o 16.04
 
 2 • USAR DISTRIBUCION NUEVA O FORMATIADA
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/GILILLOMX/ADM-ULTIMATE-NEW-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
 ==================================================================================
 
@@ -14,10 +14,5 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ==================================================================================
 
-☆ https://t.me/admmanagerfree ☆
-=================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato
-
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
-
+☆ GILILLOMX============================================
 
